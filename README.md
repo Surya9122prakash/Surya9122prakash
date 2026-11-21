@@ -6,6 +6,13 @@
   width="100%"
 />
 
+<a href="https://github.com/Surya9122prakash">
+  <img src="https://avatars.githubusercontent.com/u/100427401?v=4" alt="Surya Prakash — GitHub profile photo" width="124" height="124" />
+</a>
+
+<p><strong>Developer • Builder • Problem Solver</strong></p>
+<p>Creating practical experiences across Python, full-stack development, and computer vision.</p>
+
 <p><strong>👋 Hi, I'm Surya Prakash</strong></p>
 
 **Python & Full-Stack Developer | Computer Vision | AI Applications**
