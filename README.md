@@ -1,111 +1,177 @@
-# Hi, I'm Surya Prakash 👋
+<div align="center">
 
-### Python & Full-Stack Developer | Computer Vision | Automation & AI Applications
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:142B49,100:2563EB&height=220&section=header&text=Surya%20Prakash&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Python%20%7C%20Full-Stack%20%7C%20AI%20Applications&descSize=17&descAlignY=59&descColor=B8D4FF"
+  alt="Surya Prakash — Python, Full-Stack and AI Applications"
+  width="100%"
+/>
 
-I build software applications, backend services, and developer tools, with a focus on practical functionality, clear architecture, and usable interfaces.
+### 👋 Hi, I'm Surya Prakash
 
-My projects span **Python, Django, Flask, JavaScript, TypeScript, React, and Node.js**, including computer vision applications, file-management systems, and scheduling component libraries.
+**Python & Full-Stack Developer | Computer Vision | AI Applications**
 
-I'm continuing to develop my skills in AI application engineering, automation, and production-ready software development.
+Building practical software, backend systems, and reusable developer tools.
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surya9122prakash)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Source-2563EB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Surya9122prakash/Surya-_Prakash_Portfolio)
 
-## 🛠️ Technologies
-
-**Languages:** Python · JavaScript · TypeScript · SQL
-
-**Backend:** Django · Flask · Node.js · Express
-
-**Frontend:** React · HTML · CSS
-
-**AI & Computer Vision:** OpenCV · Dlib · Python-based image processing
-
-**Databases & Tools:** PostgreSQL · MySQL · SQLite · Git · GitHub
-
-*The technologies above are represented in my repository code or project configurations. Depth of expertise varies by technology.*
+</div>
 
 ---
 
-## 🚀 Selected Projects
+## 👨‍💻 About Me
+
+I'm a developer interested in building reliable software that solves practical problems.
+
+My public projects cover Python applications, web development, computer vision, backend services, and reusable TypeScript/React components.
+
+- 🔭 **Projects:** Web applications, backend APIs, and developer tools
+- 🧠 **Exploring:** Generative AI, RAG, AI agents, and automation
+- 🛠️ **Improving:** Testing, software architecture, and deployment
+- 🤝 **Interested in:** Open-source collaboration and practical software projects
+- 🌍 **Portfolio focus:** Building useful software for users and businesses
+
+---
+
+## ⚡ Technology Stack
+
+<div align="center">
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-36566C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Backend & Frameworks
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-303030?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+### Data, AI & Computer Vision
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Python AI](https://img.shields.io/badge/Python-AI%20Applications-2563EB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 ### 📅 Schedultron — Scheduling Component Library
 
-A TypeScript and React component library for building scheduling and calendar interfaces.
+**TypeScript · React · Calendar Components**
 
-The project documentation describes day, week, and month views, date and time selection, recurring schedules, drag-and-drop interactions, and timezone handling.
+A React scheduling library with documented calendar views, configurable date and time pickers, recurring events, and timezone-aware functionality.
 
-**Tech:** TypeScript, React
-
-[Source Code](https://github.com/Surya9122prakash/schedultron) · [Demo](https://schedultron-live.vercel.app)
+[![Repository](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github)](https://github.com/Surya9122prakash/schedultron)
+[![Live Demo](https://img.shields.io/badge/Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://schedultron-live.vercel.app)
 
 ### 👁️ AI Driver Drowsiness Detection
 
-A Python computer vision application designed to detect potential driver drowsiness by analyzing eye landmarks and eye aspect ratio.
+**Python · Flask · OpenCV · Dlib**
 
-The application uses a Flask-based web interface with OpenCV and Dlib.
+An experimental computer vision application designed to analyze eye landmarks and estimate potential driver drowsiness using Eye Aspect Ratio (EAR).
 
-**Tech:** Python, Flask, OpenCV, Dlib
+[![Repository](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github)](https://github.com/Surya9122prakash/AI-Driver-Drowsiness)
 
-[Source Code](https://github.com/Surya9122prakash/AI-Driver-Drowsiness)
+*Research and demonstration project, not a certified driver safety system.*
 
-*Experimental project; not a validated automotive safety system.*
+### 📁 Filezz — File Management Web Application
 
-### 📁 Filezz — File Management Web App
+**Python · Django**
 
-A Django application for authenticated users to upload, view, and manage files.
+A web application for user authentication, file uploads, and file management, with documented screenshots and usage instructions.
 
-The repository includes application screenshots and setup documentation.
+[![Repository](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github)](https://github.com/Surya9122prakash/Filezz)
 
-**Tech:** Python, Django
+### ⚙️ Aghan Backend — Backend Application
 
-[Source Code](https://github.com/Surya9122prakash/Filezz)
+**Node.js · Express · SQL**
 
-### ⚙️ Aghan Backend — Web Application Backend
+A JavaScript backend project with database, authentication, and third-party integration dependencies.
 
-A Node.js/Express backend project using database, authentication, and integration-related dependencies.
+[![Repository](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github)](https://github.com/Surya9122prakash/Aghan_Backend)
 
-**Tech:** JavaScript, Node.js, Express, SQL integrations
+### 🗓️ Calendrix — Calendar UI Library
 
-[Source Code](https://github.com/Surya9122prakash/Aghan_Backend)
+**TypeScript · React**
 
-### 📆 Calendrix — Calendar UI Components
+Reusable React calendar components with documented event handling, configurable views, and timezone-related capabilities.
 
-A TypeScript/React component library with documented calendar views, configurable event forms, and timezone-related functionality.
-
-**Tech:** TypeScript, React
-
-[Source Code](https://github.com/Surya9122prakash/calendrix)
+[![Repository](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github)](https://github.com/Surya9122prakash/calendrix)
 
 ---
 
-## 💡 What I'm Exploring
+## 🧠 Current Learning & Development
 
-- Building Python automation tools for repetitive workflows
-- Developing API-driven applications and integrations
-- Improving backend architecture, testing, and security
-- Exploring LLM applications, retrieval-augmented generation, and AI agents
-- Creating maintainable, documented, reusable software
+My current areas of interest include:
+
+| Area | Focus |
+|:---|:---|
+| Python Engineering | APIs, reusable modules, automation |
+| Generative AI | LLM applications and integrations |
+| RAG | Document retrieval and grounded responses |
+| AI Agents | Tool use and workflow orchestration |
+| Backend Systems | Authentication, databases, API architecture |
+| Engineering Quality | Testing, security, CI/CD, deployment |
+
+These are areas of learning and development, not claims of production expertise.
 
 ---
 
 ## 🤝 Collaboration
 
-I'm interested in collaborating on practical software projects, including Python applications, backend APIs, web platforms, and developer tools.
+I'm interested in collaborating on projects involving:
 
-Have a project idea or technical question?
+- Python applications and backend services
+- REST APIs and software integrations
+- Web applications and React interfaces
+- Workflow automation and developer tools
+- Practical AI application prototypes
 
-**[Start a discussion on GitHub](https://github.com/Surya9122prakash)**
-
----
-
-## 📫 Find Me
-
-**GitHub:** [@Surya9122prakash](https://github.com/Surya9122prakash)
-
-**Portfolio:** [Portfolio source repository](https://github.com/Surya9122prakash/Surya-_Prakash_Portfolio)
-
-*Additional contact and professional portfolio links can be added once verified.*
+I value clear requirements, reproducible implementations, and documentation that makes projects easier to understand and maintain.
 
 ---
 
-*Building, learning, and improving through real projects.*
+## 📬 Let's Connect
+
+<div align="center">
+
+**Have a software project or collaboration idea?**
+
+Explore my repositories and connect with me on GitHub.
+
+[![GitHub Profile](https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surya9122prakash)
+
+[![Portfolio Source](https://img.shields.io/badge/Portfolio%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surya9122prakash/Surya-_Prakash_Portfolio)
+
+</div>
+
+---
+
+<div align="center">
+
+**Build thoughtfully. Document clearly. Keep improving.**
+
+<sub>Thanks for visiting my GitHub profile.</sub>
+
+</div>
