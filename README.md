@@ -6,7 +6,7 @@
   width="100%"
 />
 
-### 👋 Hi, I'm Surya Prakash
+<p><strong>👋 Hi, I'm Surya Prakash</strong></p>
 
 **Python & Full-Stack Developer | Computer Vision | AI Applications**
 
@@ -19,7 +19,7 @@ Building practical software, backend systems, and reusable developer tools.
 
 ---
 
-## 👨‍💻 About Me
+<p><strong>👨‍💻 About Me</strong></p>
 
 I'm a developer interested in building reliable software that solves practical problems.
 
@@ -33,31 +33,31 @@ My public projects cover Python applications, web development, computer vision, 
 
 ---
 
-## ⚡ Technology Stack
+<p><strong>⚡ Technology Stack</strong></p>
 
 <div align="center">
 
-### Languages
+<p><strong>Languages</strong></p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-36566C?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Backend & Frameworks
+<p><strong>Backend & Frameworks</strong></p>
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-303030?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white)
 
-### Frontend
+<p><strong>Frontend</strong></p>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
-### Data, AI & Computer Vision
+<p><strong>Data, AI & Computer Vision</strong></p>
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Python AI](https://img.shields.io/badge/Python-AI%20Applications-2563EB?style=for-the-badge&logo=python&logoColor=white)
@@ -65,7 +65,7 @@ My public projects cover Python applications, web development, computer vision, 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Developer Tools
+<p><strong>Developer Tools</strong></p>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -74,9 +74,9 @@ My public projects cover Python applications, web development, computer vision, 
 
 ---
 
-## 🚀 Featured Projects
+<p><strong>🚀 Featured Projects</strong></p>
 
-### 📅 Schedultron — Scheduling Component Library
+<p><strong>📅 Schedultron — Scheduling Component Library</strong></p>
 
 **TypeScript · React · Calendar Components**
 
@@ -85,7 +85,7 @@ A React scheduling library with documented calendar views, configurable date and
 [![Repository](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github)](https://github.com/Surya9122prakash/schedultron)
 [![Live Demo](https://img.shields.io/badge/Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://schedultron-live.vercel.app)
 
-### 👁️ AI Driver Drowsiness Detection
+<p><strong>👁️ AI Driver Drowsiness Detection</strong></p>
 
 **Python · Flask · OpenCV · Dlib**
 
@@ -95,7 +95,7 @@ An experimental computer vision application designed to analyze eye landmarks an
 
 *Research and demonstration project, not a certified driver safety system.*
 
-### 📁 Filezz — File Management Web Application
+<p><strong>📁 Filezz — File Management Web Application</strong></p>
 
 **Python · Django**
 
@@ -103,7 +103,7 @@ A web application for user authentication, file uploads, and file management, wi
 
 [![Repository](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github)](https://github.com/Surya9122prakash/Filezz)
 
-### ⚙️ Aghan Backend — Backend Application
+<p><strong>⚙️ Aghan Backend — Backend Application</strong></p>
 
 **Node.js · Express · SQL**
 
@@ -111,7 +111,7 @@ A JavaScript backend project with database, authentication, and third-party inte
 
 [![Repository](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github)](https://github.com/Surya9122prakash/Aghan_Backend)
 
-### 🗓️ Calendrix — Calendar UI Library
+<p><strong>🗓️ Calendrix — Calendar UI Library</strong></p>
 
 **TypeScript · React**
 
@@ -121,7 +121,7 @@ Reusable React calendar components with documented event handling, configurable 
 
 ---
 
-## 🧠 Current Learning & Development
+<p><strong>🧠 Current Learning & Development</strong></p>
 
 My current areas of interest include:
 
@@ -138,7 +138,7 @@ These are areas of learning and development, not claims of production expertise.
 
 ---
 
-## 🤝 Collaboration
+<p><strong>🤝 Collaboration</strong></p>
 
 I'm interested in collaborating on projects involving:
 
@@ -152,7 +152,7 @@ I value clear requirements, reproducible implementations, and documentation that
 
 ---
 
-## 📬 Let's Connect
+<p><strong>📬 Let's Connect</strong></p>
 
 <div align="center">
 
